@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663503382992",
+    "firebase_url": "https://bonjour-3819f.firebaseio.com",
+    "project_id": "bonjour-3819f",
+    "storage_bucket": "bonjour-3819f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663503382992:android:05fb0f6b4d15e826",
+        "android_client_info": {
+          "package_name": "com.alengeorge.bonjour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663503382992-fah8ivqndlqp8ouva4ja75ci53p7dorp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alengeorge.bonjour",
+            "certificate_hash": "8325433cbecaae6af43d5ed06b775c50530fe628"
+          }
+        },
+        {
+          "client_id": "663503382992-al7st0a60lkdn0jjh0tjli9scp5l40jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMK2a-fvNUW0rzCxDAde-GlmCBePMmD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663503382992-al7st0a60lkdn0jjh0tjli9scp5l40jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
