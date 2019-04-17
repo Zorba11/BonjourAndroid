@@ -88,7 +88,7 @@ public class RegisterActivity extends AppCompatActivity {
                             if(task.isSuccessful()){
 
                                 String currentUserId = auth.getCurrentUser().getUid();
-                                rootRef.child("Users").child(currentUserId).setValue("");
+                                rootRef.child("Users").child(currentUserId ).setValue("");
 
                                 Toast.makeText(RegisterActivity.this,"Account create successfully",Toast.LENGTH_LONG).show();
                                 loadingBar.dismiss();
